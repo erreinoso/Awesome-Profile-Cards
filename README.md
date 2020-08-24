@@ -2,7 +2,7 @@
 
 This app allows the user to create a digital card with their data: full name, position and links to their contact details and social network profiles.
 
-We are a team of four women from very different backgrounds that came together through Adalab Bootcamp in Madrid and this is our project.
+We area a team of five students and we used html, sass and javascript partials compiled with node/gulp.
 
 We received the following design,
 
@@ -60,7 +60,7 @@ You could check the result in [this example](https://us-central1-awesome-cards-c
 
 - JavaScript
 - HTML 5
-- Gulp
+- Node - Gulp
 - CSS - SASS.
 
 ## How to run this project? :point_down:
