@@ -88,7 +88,7 @@ You can also create a docs folder by running #### `npm run docs`
 
 ## Team 👋
 
-This project was created by:
+This project was created by Livecode Team:
 
 Elena Ramírez Reinoso [🔗](https://github.com/erreinoso)
 
