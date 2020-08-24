@@ -6,11 +6,11 @@ We are a team of four women from very different backgrounds that came together t
 
 We received the following design,
 
-![screenshot of original landing ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Original.PNG)
+![screenshot of original landing ]b(https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Original.PNG)
 
 but we felt we wanted to improve the project by adding a extra value: a meaningful design: Botanical Profile Cards
 
-![screenshot of our design ] https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Landing.PNG
+![screenshot of our design ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Landing.PNG)
 
 **- Requirements**
 
@@ -23,9 +23,9 @@ The application work through this steps:
 
 - Allow the user to choose the style of the profile card, by 3 color palettes and the possibility of adding an extra frame or not.
 
-![screenshot of first design property: color palette ] https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Palette.PNG
+![screenshot of first design property: color palette ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Palette.PNG)
 
-![screenshot of second design property: image frame ] https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-PaletteAndFrame.PNG
+![screenshot of second design property: image frame ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-PaletteAndFrame.PNG)
 
 - Allow the user to preview the result of the data introduced in the preview card.
 
@@ -33,7 +33,7 @@ The application work through this steps:
 
 - Check that the information provided by the user is correct. If it is not, show an error message .
 
-![screenshot of error in data provided by user ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/)BotanicalCards-ExampleError.PNG
+![screenshot of error in data provided by user ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-ExampleError.PNG)
 
 - Allow the user to create and share a web with is profile card and share it in Twitter
 
@@ -51,27 +51,17 @@ You could check the result in [this example](https://us-central1-awesome-cards-c
 
 ## Learnings 💡
 
-Advanced use of HTML forms
-*Layout using advanced CSS, such as flex and grid
-*Use of mediaqueries so that the design is adaptable to the device using the mobile first strategy
-*Management of events in the browser (when clicking, passes x, etc.) *Access and sending data on the Internet through requests to the server
-*Local storage using LocalStorage *Use of git to control project versions
-\*Publication of the result on the Internet using GitHub Pages
-
-Aprender los conceptos b 谩 sicos de programaci 贸 n (variables, estructuras de datos, condicionales, funciones, etc.)
-Comprender c 贸 mo manipular el DOM de una p 谩 gina y responder a eventos del usuario
-Manejar estructuras de datos complejas, con arrays y objetos
-Realizar peticiones al servidor y almacenar datos en local
-Implementar Scrum como marco de referencia para el desarrollo del producto, bas 谩 ndonos siempre en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua
-Mejorar la comunicaci 贸 n entre los miembros del equipo
-Mejorar vuestras habilidades de comunicaci 贸 n en p 煤 blico al exponer el proyecto en la sesi 贸 n final
+- Learning basic concepts of programming.
+- Learning how to manipulate the Document Object Model, with event listeners, to change your page in response to user actions.
+- To handle complex data structures, with arrays and objects.
+- To request data to the server and store data locally.
 
 ## Tools 💻
 
-JavaScript
-HTML 5
-Gulp
-CSS - SASS.
+- JavaScript
+- HTML 5
+- Gulp
+- CSS - SASS.
 
 ## How to run this project? :point_down:
 
