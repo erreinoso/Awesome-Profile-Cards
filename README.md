@@ -6,7 +6,7 @@ We are a team of four women from very different backgrounds that came together t
 
 We received the following design,
 
-![screenshot of original landing ]b(https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Original.PNG)
+![screenshot of original landing ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-Original.PNG)
 
 but we felt we wanted to improve the project by adding a extra value: a meaningful design: Botanical Profile Cards
 
@@ -39,9 +39,9 @@ The application work through this steps:
 
 ![screenshot of page to share your profile card ](https://github.com/erreinoso/Awesome-Profile-Cards/blob/master/readme-images/BotanicalCards-CreateCard.PNG)
 
-- Data is saved in the Local Storage and show it in the preview card.
+- Data is saved in the Local Storage and showed in the preview card.
 
-- Modifications in the data or design will automatically appear in the preview card.
+- Modifications in data or design will automatically appear in the preview card.
 
 - Data has format restriction as indicated.
 
